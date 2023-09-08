@@ -1,15 +1,12 @@
 {
   "name": "nest-next-trpc",
   "version": "1.0.0",
-  "description": "",
+  "description": "tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "pnpm run --parallel dev"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@nestjs/cli": "^10.1.17"
-  }
+  "license": "ISC"
 }
