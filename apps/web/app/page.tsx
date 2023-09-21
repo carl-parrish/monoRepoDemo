@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import {trpc } from '@web/app/trpc';
 
 export default async function Home() {
