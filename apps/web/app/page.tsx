@@ -27,7 +27,7 @@ export default async function Home() {
               priority
             />
           </a>
-          <div>{greeting</div>
+          <div>{greeting}</div>
         </div>
       </div>
 
