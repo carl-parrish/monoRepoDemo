@@ -6,3 +6,14 @@ Test setting up a mono repo
 ```
 pnpm dev
 ```
+
+## view app
+Nextjs
+```
+localhost:3000
+```
+
+Nestjs
+```
+localhost:4000
+```
